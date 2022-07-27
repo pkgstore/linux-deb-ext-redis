@@ -1,4 +1,4 @@
-<package name="ext-redis" project="home:pkgstore:deb-ext">
+<package name="ext-redis" project="home:pkgstore:deb:ext">
   <title/>
   <description/>
 </package>
